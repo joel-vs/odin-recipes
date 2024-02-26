@@ -4,4 +4,21 @@ li{
 
 .heading{
     color: #a52a2a;
+    text-align: center;
+    padding: 15px;
+    border: 10px;
+    margin: 8px;
+}
+
+ul{
+    text-align: center;
+    list-style: inside;
+    margin-bottom: 15px;
+} 
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
 }
